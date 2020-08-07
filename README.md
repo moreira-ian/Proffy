@@ -1,6 +1,9 @@
-# Proffy 
+<h5 align="center">
+    <img alt="proffy" title="#landing" src="https://github.com/moreira-ian/Proffy/blob/master/mobile/src/assets/images/landing%402x.png">
+</h5>
+<br/>
 
-Este é um projeto que visa conectar professores e estudantes.
+Este é um projeto que visa conectar professores e estudantes em uma plataforma mobile de estudos.
 
 ## :rocket: Tecnologias
 Projeto desenvolvido com as seguintes tecnologias:
@@ -8,6 +11,7 @@ Projeto desenvolvido com as seguintes tecnologias:
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.io/)
 - [Express](https://expressjs.com/pt-br/)
+
 
 ## :computer: Desenvolvimento
 Projeto desenvolvido com base no conteúdo da <strong> Next Level Week 2 </strong> ministrada pelo </b> [Diego Fernandes](https://github.com/diego3g)
