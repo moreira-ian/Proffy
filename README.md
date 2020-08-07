@@ -3,7 +3,7 @@
 </h5>
 <br/>
 
-Este é um projeto que visa conectar professores e estudantes em uma plataforma mobile de estudos.
+Este é um projeto que visa conectar professores e estudantes em uma plataforma online de estudos.
 
 ## :rocket: Tecnologias
 Projeto desenvolvido com as seguintes tecnologias:
